@@ -1,0 +1,21 @@
+Running this project on Jupyter Notebook might take longer than usual or may not work entirely. Hence, I recommend using Google Colab to run this Movie Recommendation System.
+
+Please follow the below instructions to understand how to use Google Colab for the Recommendation Systems project.
+
+Step 1: Download the Dataset and the Notebook Template from my GitHub Repo
+
+Step 2: Upload both files to Google Drive
+
+Step 3: Open the Colab Notebook from Google Drive by double-clicking on it
+
+Step 4: Mount your Google Drive files by running the following code from the Notebook: 
+from google.colab import drive
+drive.mount('/content/drive')
+
+Note: During the execution of this code, Google will ask your permission to connect to your Google Drive and ask to login with your Gmail account.
+
+Step 5: Copy the dataset path. On the left-side panel of Google Colab, you should see a folder icon. Click on it. Over there, you will see the Drive folder. Under that, there should be a My Drive folder,
+which should contain the 'u.data' file just uploaded. Click on the three dots to the right of the file name. Click on “Copy path” and then replace the path in your file like so:
+data = pd.read_table('/content/drive/MyDrive/u.data', names=col_names)
+
+
