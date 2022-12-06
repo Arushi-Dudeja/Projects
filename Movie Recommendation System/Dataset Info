@@ -1,1 +1,1 @@
-
+Dataset has about 100000 rows and 3 columns containing Movie Ratings ranging from 1 to 5. There are no Nulls in the dataset. The columns are: User ID, Item ID, Rating, Timestamp.
