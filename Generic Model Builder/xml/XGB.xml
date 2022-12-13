@@ -1,0 +1,9 @@
+<hyperparameters>
+	<booster> </booster>
+	<max_depth> </max_depth>
+	<eta> </eta>
+	<tree_method> </tree_method>
+    <lambda> </lambda>
+    <alpha> </alpha>
+    <njobs> </njobs>
+</hyperparameters>

@@ -1,0 +1,5 @@
+<hyperparameter>
+	<max_depth>2</max_depth>
+	<max_feat> </max_feat>
+    <random_state>42</random_state>
+</hyperparameter>

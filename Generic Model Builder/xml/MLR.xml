@@ -1,0 +1,5 @@
+<hyperparameters>
+	<max_depth>2</max_depth>
+	<max_feat>auto</max_feat>
+     <random_state>0</random_state>
+</hyperparameters>

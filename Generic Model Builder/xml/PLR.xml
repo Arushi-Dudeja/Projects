@@ -1,0 +1,6 @@
+<hyperparameter>
+	<max_depth>2</max_depth>
+	<max_feat>auto</max_feat>
+    <random_state>42</random_state>
+    <degree>4</degree>
+</hyperparameter>

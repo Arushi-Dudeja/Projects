@@ -1,0 +1,13 @@
+<hyperparameters>
+    <units> </units>
+    <init> </init>
+    <activation_hidden> </activation_hidden>
+    <activation_output>softmax</activation_output>
+    <loss> </loss>
+    <optimizer> </optimizer>
+    <metrics> </metrics>
+    <dropout>0.5</dropout>
+    <epochs>50</epochs>
+    <batch> </batch>
+    <verbose> </verbose>
+</hyperparameters>

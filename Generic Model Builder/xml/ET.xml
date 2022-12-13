@@ -1,0 +1,7 @@
+<hyperparameters>
+	<n_est> </n_est>
+	<max_depth>2</max_depth>
+	<max_feat> </max_feat>
+    <n_jobs> </n_jobs>
+	<random_state>42</random_state>
+</hyperparameters>
