@@ -1,4 +1,4 @@
-## Machine Learning Generic Model Builder  
+Machine Learning Generic Model Builder  
         
 - Built a Machine Learning Tool for the EY Arsenal that allows users to clean and pre-process any dataset, train and build models and test their models on testing dataset
 - Added a plethora of supervised and unsupervised ML algorithms for classification, regression, and clustering like Logistic regression, Random Forrest, Ada Boost Classifier, Decision Tree, Gradient Boosting, Extra Trees Classifier, XGBoost Classifier, KNN, SVR, SVC, Linear SVC, Sequential Keras, Stacking Ensemble model, K Means clustering, Hierarchical Clustering, Time Series AR
