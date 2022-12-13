@@ -1,1 +1,8 @@
-
+## Machine Learning Generic Model Builder  
+        
+- Built a Machine Learning Tool for the EY Arsenal that allows users to clean and pre-process any dataset, train and build models and test their models on testing dataset
+- Added a plethora of supervised and unsupervised ML algorithms for classification, regression, and clustering like Logistic regression, Random Forrest, Ada Boost Classifier, Decision Tree, Gradient Boosting, Extra Trees Classifier, XGBoost Classifier, KNN, SVR, SVC, Linear SVC, Sequential Keras, Stacking Ensemble model, K Means clustering, Hierarchical Clustering, Time Series AR
+- Optimized and generalized all the models to enable users to build instant ML models on any dataset they upload
+- Used FastAPI and Postman Application to enable users to hit the integrated python scripts for pre-processing, training, and testing data
+- Used PostgreSQL to store model datasets, important findings and performance metrics and later publish those to Front-end
+- Technology Used: ML Algorithms, Python, API
